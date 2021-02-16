@@ -1,4 +1,4 @@
-rezept: Fisch
+rezept: Fisch mit Kurry
 Zutaten:
 
 
